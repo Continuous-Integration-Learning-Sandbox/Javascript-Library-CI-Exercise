@@ -2,6 +2,14 @@
 
 A small, useful JavaScript library for string manipulation.
 
+## Context
+This project was developed as part of a Continuous Integration course exercise. 
+The goal was to demonstrate:
+- Semantic Versioning
+- Unit Testing with Jest
+- Documentation standards (CONTRIBUTING, SECURITY, Templates)
+- NPM Publishing workflow
+
 ## Installation
 
 Install using npm:
